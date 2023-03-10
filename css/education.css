@@ -1,0 +1,17 @@
+.education {
+	padding-top: 20px;
+	font-style: italic;
+	color: #eeeeee;
+	text-align: center;
+}
+
+body {
+	background-color: #5F6F94;
+
+}
+
+.two h2 {
+	font-size: 30px;
+	font-family: 'Alumni Sans Pinstripe', sans-serif;
+	text-shadow: 2px 2px 2px #2B3467;
+}

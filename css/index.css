@@ -1,0 +1,70 @@
+
+/*상단바*/
+
+.menu * {
+    display: inline;
+}
+
+.menu li {
+    margin: 35px;
+}
+
+.menu li a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.menu ul {
+    padding-left: 0px;
+}
+
+.menu {
+    font-size: 20px;
+    font-style: italic;
+    align-items: center;
+    text-align: center;
+    padding-top: 80px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+} 
+
+body {
+	overflow: hidden;
+	background-color: #6690ad;
+}
+
+.one {
+	background-size: cover;
+	text-align: center;
+	padding-top: 150px;
+	padding-bottom: 100px;
+}
+
+.profile {
+	border-radius: 20%;
+	display: inline-block;
+	border: 1px solid gray;
+}
+
+.profile img {
+	border-radius: 20%;
+}
+
+.two {
+	padding-top: 20px;
+}
+
+.two img{
+	border-radius: 100%;
+}
+
+.two a:not(:last-child) {
+	padding-right: 15px;
+}
+
+.two a {
+	text-decoration: none;
+}

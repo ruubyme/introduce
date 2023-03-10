@@ -1,0 +1,31 @@
+
+body {
+    background-color: #C2B8A3;
+}
+
+
+.favorites {
+  margin-top: 150px;
+  padding: 30px;
+  height: 600px;
+  width: 90%;
+  overflow: scroll;
+  display: inline-block;
+  border: 2px solid #B4A5A5;
+  background-color: #F1F1F1;
+}
+
+
+
+h2{
+  color: white;
+  background-color: #C2B8A3;
+  font-family: 'Alumni Sans Pinstripe', sans-serif;
+  font-size: 30px;
+}
+
+img {
+  height: 300px;
+  width: 250px;
+  padding-right: 20px;
+}
